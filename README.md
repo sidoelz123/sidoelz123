@@ -9,7 +9,7 @@
 </div><br><br>
 <ul style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1px;margin-top:2.25rem;">
     <li>🎓 Informatics Student at Politeknik Harapan Bersama Tegal</li>
-    <li>👨🏼‍💻 DevOps and Front-End Web Developer Enthusiast.</li>
+    <li>👨🏼‍💻 DevOps and Fullstack Web Developer Enthusiast.</li>
 </ul><br>
 
 <h2 style="font-family: 'Poppins', sans-serif;font-weight:400;letter-spacing:1.2px;">Technologies :</h2>
